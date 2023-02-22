@@ -70,3 +70,4 @@ function drawItems() {
 
 // Check for collision with items
 function checkCollision
+drawMaze();
